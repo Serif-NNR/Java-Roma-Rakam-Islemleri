@@ -19,7 +19,7 @@ public void UstAl(){
 		sonuc = ROMA();
 		
    		 ASD();
-}
+              }
 -------------------------------------------------------------------------------------
 
 Örnek: Yukarıda ki kodun "Islemler.java"ya 
