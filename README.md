@@ -10,7 +10,7 @@ Elde edilen sonuç, yeniden Roma rakamına dönüştürülür ve çıktı olarak
 4 işlemin haricinde istenilen (tamsayı çıktı verir) işlem kolayca uyarlanabilir.
 
 ------------------------------------------------------------------------------------
-public void UstAl(){
+*public void UstAl(){
 
 		onluk = deger1 / deger2;
 		
@@ -19,7 +19,7 @@ public void UstAl(){
 		sonuc = ROMA();
 		
    		 ASD();
-            }
+            }*
 -------------------------------------------------------------------------------------
 
 Örnek: Yukarıda ki kodun "Islemler.java"ya 
